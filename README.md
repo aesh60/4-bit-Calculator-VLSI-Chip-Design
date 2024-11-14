@@ -36,6 +36,7 @@ Ran simulations and exported the waveforms into a truth table.
 ## **Addition**
 
 All designs underwent simulation, and the layout diagrams passed DRC and LVS checks.
+Schematic of all parts and Final system Layout diagram are attached, as simulation waveform and truth table 
 
 The layout diagram was streamed into a GDS file and imported into KLayout to export it as an SVG file. I attached the GDS file, along with the KLayout properties and SVG exporter by MayeulC.
 
