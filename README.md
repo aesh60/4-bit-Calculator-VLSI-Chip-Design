@@ -1,6 +1,11 @@
 ## **Project Overview: 4-bit Calculator in Cadence Virtuoso (GPDK45nm Technology)**
 To complete this project, I began by designing CMOS logic gates. This was followed by other essential components such as multiplexers (MUX), decoders, and full adders, before moving on to the calculation units. The project aimed to understand how part of the Arithmetic Logic Unit (ALU) works at the transistor level, as well as how to design a chip in Very-Large-Scale Integration (VLSI) and perform physical verification checks like Design Rule Check (DRC) and Layout Versus Schematic (LVS).
 
+![4bit_Binary_Calculator_schematic_1_](https://github.com/user-attachments/assets/ebaad54e-93c9-419e-bde1-8065375d92d9)
+
+![4bit_Binary_Calculator_Layout](https://github.com/user-attachments/assets/e57cc62b-fa3e-4e73-bdeb-59dc7b1b211d)
+
+
 ## **Design Process of the 4-bit Binary Calculator**
 The 4-bit calculator comprises two main sections: arithmetic operations and the controller. The arithmetic operations section is divided into three sub-parts: addition/subtraction, multiplication, and division. The full adder is a critical, shared component across these units. The controller's role is to select the operation to execute and output the correct result.
 
